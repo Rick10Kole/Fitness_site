@@ -280,7 +280,7 @@ body {
 .nav-wrapper {
   background: var(--brand-dark);
   border-radius: 25px;
-  padding: 12px 24px;
+  padding: 2px 24px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -1907,3 +1907,4 @@ programs-cta .btn-primary {
   }
 
 }
+
