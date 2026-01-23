@@ -308,7 +308,7 @@ body {
 
 .network-logo img {
   height: auto;
-  width: 70px;
+  width: 100px;
   max-width: 100%;
 }
 
@@ -411,7 +411,7 @@ body {
 }
 
 .footer-logo img {
-  height: 70px;
+  height: 100px;
   width: auto;
 }
 
@@ -1905,4 +1905,5 @@ programs-cta .btn-primary {
   .network-logo span {
     font-size: 1.2rem;
   }
+
 }
