@@ -310,7 +310,7 @@ body {
 
 .network-logo img {
   height: auto;
-  width: 10px;
+  width: 30px;
   max-width: 100%;
 }
 
@@ -1910,6 +1910,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
