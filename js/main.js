@@ -320,7 +320,7 @@ function handleWhatsApp() {
     btn.addEventListener('click', () => {
       const WHATSAPP_NUMBER ="22879703341";
       const phoneNumber = btn.dataset.phone || gymInfo.whatsapp.replace(/[\s\-\+]/g, '');
-      const message = "Salut👋, je souhaite avoir des informations."; 
+      const message = "Salut👋, je souhaite prendre des renseignements."; 
       window.open(`https://wa.me/${phoneNumber}`, '_blank');
     });
   });
@@ -364,6 +364,7 @@ document.addEventListener('DOMContentLoaded', () => {
   handleWhatsApp();
   initFooterNavigation();
 });
+
 
 
 
