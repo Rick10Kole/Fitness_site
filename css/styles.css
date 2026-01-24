@@ -1717,7 +1717,7 @@ programs-cta .btn-primary {
 /* ========================================
    RESPONSIVE
    ======================================== */
-@media (max-width: 781px) {
+@media (max-width: 681px) {
   .container {
     padding: 0 var(--spacing-small);
   }
@@ -1729,7 +1729,7 @@ programs-cta .btn-primary {
 
   .nav-wrapper {
     border-radius: 0;
-    padding: 38px 20px;
+    padding: 16px 20px;
   }
 
   .mobile-menu-toggle {
@@ -1910,6 +1910,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
