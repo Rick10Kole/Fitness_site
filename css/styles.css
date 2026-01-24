@@ -1900,7 +1900,7 @@ programs-cta .btn-primary {
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 781px) {
   .network-logo img {
     width: 30px
      max-height: 60px
@@ -1910,6 +1910,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
