@@ -293,7 +293,8 @@ body {
   align-items: center;
   gap: 8px;
   text-decoration: none;
-   marging-left: -50px
+   marging-left: -50px;
+   flex-shrink: 0;
 }
 .network-logo span {
   display: flex;
@@ -1909,6 +1910,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
