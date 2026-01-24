@@ -303,6 +303,7 @@ body {
   font-weight: 600;
   color: var(--brand-primary);
   text-decoration: none;
+   margin-bottom: 8px
   transition: opacity 0.2s ease;
 }
 
@@ -1907,6 +1908,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
