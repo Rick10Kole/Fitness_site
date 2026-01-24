@@ -319,7 +319,6 @@ function handleWhatsApp() {
   whatsappBtns.forEach(btn => {
     btn.addEventListener('click', () => {
       const WHATSAPP_NUMBER ="22879703341";
-      const message = "Bonjour, je souhaite avoir des informations.";
       const phoneNumber = btn.dataset.phone || gymInfo.whatsapp.replace(/[\s\-\+]/g, '');
       const message = "Bonjour, je souhaite avoir des informations."; 
       window.open(`https://wa.me/${phoneNumber}`, '_blank');
@@ -365,5 +364,6 @@ document.addEventListener('DOMContentLoaded', () => {
   handleWhatsApp();
   initFooterNavigation();
 });
+
 
 
