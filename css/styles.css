@@ -299,7 +299,7 @@ body {
 .network-logo span {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 12px;
   font-size: 1.25rem;
   font-weight: 600;
   color: var(--brand-primary);
@@ -310,7 +310,7 @@ body {
 
 .network-logo img {
   height: auto;
-  width: 30px;
+  width: 80px;
   max-width: 100%;
 }
 
@@ -1910,6 +1910,7 @@ programs-cta .btn-primary {
   }
 
 }
+
 
 
 
