@@ -297,11 +297,10 @@ body {
 .network-logo span {
   display: flex;
   align-items: center;
-  gap: 10px;
-  font-size: 1.5rem;
-  font-weight: bold;
+  gap: 12px;
+  font-size: 1.25rem;
+  font-weight: 600;
   color: var(--brand-primary);
-  letter-spacing: 1xp;
   text-decoration: none;
   transition: opacity 0.2s ease;
 }
@@ -1907,4 +1906,5 @@ programs-cta .btn-primary {
   }
 
 }
+
 
